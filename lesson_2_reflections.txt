@@ -1,1 +1,3 @@
 when you initialize a new repository you create a repository out of the current directory. It does not commit any files.
+
+staging area is different from the working directory because it prepares only selected files to be commited to the repository
