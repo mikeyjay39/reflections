@@ -1,3 +1,7 @@
 when you initialize a new repository you create a repository out of the current directory. It does not commit any files.
 
 staging area is different from the working directory because it prepares only selected files to be commited to the repository
+
+use "git diff" command to view changings between the working directory and the staging area to make sure you have only 1 logical change to commit
+
+Branches help you to experiment with new features that may or may not work out while leaving the original working code intact. 
